@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Rahul
 
 - 🔭 I’m currently working on  making myself better everyday! 🏆
 - 🌱 I’m currently learning App Devlopment 📱
