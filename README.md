@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rahulbiswas12/rahulbiswas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  making myself better everyday! 🏆
+- 🌱 I’m currently learning App Devlopment 📱
+- 💬 Ask me about anything, I am happy to help 😇
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 🎶
 
-Here are some ideas to get you started:
+[![Twitter: Rahul_Biswas007](https://img.shields.io/twitter/follow/Rahul_Biswas007?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahul_Biswas007&screen_name=Rahul_Biswas007)
+[![Linkedin: Rahul](https://img.shields.io/badge/-rahulbiswas99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulbiswas99/)](https://www.linkedin.com/in/rahulbiswas99/)
+[![GitHub rahulbiswas12](https://img.shields.io/github/followers/rahulbiswas12?label=follow&style=social)](https://github.com/rahulbiswas12)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas12&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulbiswas12.rahulbiswas12)
