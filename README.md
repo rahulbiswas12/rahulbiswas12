@@ -15,6 +15,11 @@
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas12&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulbiswas12.rahulbiswas12)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbiswas12&show_icons=true&locale=en&layout=compact" alt="rahulbiswas12" /></p>
+
+
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
 
 ```
