@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on  making myself better everyday! 🏆
-- 🌱 I’m currently learning App Devlopment 📱
+- 🌱 I’m currently learning Web Devlopment 
 - 💬 Ask me about anything, I am happy to help 😇
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 🎶
