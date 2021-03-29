@@ -10,11 +10,9 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 🎶
 
 ### Connect with me:
-[<img align="left" alt="rahulbiswas12345 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="rahul.biswas12 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="UC9o1HWfOCTk3ZYBpVYmUqFw | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="Rahul_Biswas007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="rahulbiswas99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[![Twitter: Rahul_Biswas007](https://img.shields.io/twitter/follow/Rahul_Biswas007?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahul_Biswas007&screen_name=Rahul_Biswas007)
+[![Linkedin: Rahul](https://img.shields.io/badge/-rahulbiswas99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulbiswas99/)](https://www.linkedin.com/in/rahulbiswas99/)
+[![GitHub rahulbiswas12](https://img.shields.io/github/followers/rahulbiswas12?label=follow&style=social)](https://github.com/rahulbiswas12)
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
