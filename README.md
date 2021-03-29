@@ -13,7 +13,6 @@
 [![Linkedin: Rahul](https://img.shields.io/badge/-rahulbiswas99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulbiswas99/)](https://www.linkedin.com/in/rahulbiswas99/)
 [![GitHub rahulbiswas12](https://img.shields.io/github/followers/rahulbiswas12?label=follow&style=social)](https://github.com/rahulbiswas12)
 
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
@@ -38,8 +37,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-
-<br />
 
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas12&show_icons=true&hide_border=true)
