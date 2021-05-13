@@ -16,11 +16,13 @@
 
 [<img align="left" alt="" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](https://www.youtube.com/channel/UC9o1HWfOCTk3ZYBpVYmUqFw)
 
-[<img align="left" alt="swapnilsoni1999 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahul_Biswas007&screen_name=Rahul_Biswas007)
+[<img align="left" alt="rahulbiswas12 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahul_Biswas007&screen_name=Rahul_Biswas007)
 
-[<img align="left" alt="swapnilsoni1999 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulbiswas99/)
+[<img align="left" alt="rahulbiswas12 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulbiswas99/)
 
-[<img align="left" alt="swapnilsoni1999 | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rahul.biswas12/)
+[<img align="left" alt="rahulbiswas12 | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rahul.biswas12/)
+
+[<img align="left" alt="rahulbiswas12 | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/rahulbiswas12345/)
 
 <br />
 <br />
