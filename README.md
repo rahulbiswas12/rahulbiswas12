@@ -69,4 +69,7 @@
                               |___/                    |_|    
 ```
 
+<!--![Snake animation](https://github.com/rahulbiswas12/webProjects/blob/main/materials/github-contribution-grid-snake.gif)-->
+
+![Snake animation](https://github.com/rahulbiswas12/webProjects/blob/main/materials/github-contribution-grid-snake.svg)
 
