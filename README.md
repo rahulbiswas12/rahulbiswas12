@@ -1,4 +1,5 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Rahul
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">! I am Rahul Biswas <img src="https://github.com/rahulbiswas12/webProjects/blob/main/materials/cat.gif" alt="Meaow" width="50" />
+
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
@@ -72,4 +73,6 @@
 <!--![Snake animation](https://github.com/rahulbiswas12/webProjects/blob/main/materials/github-contribution-grid-snake.gif)-->
 
 ![Snake animation](https://github.com/rahulbiswas12/webProjects/blob/main/materials/github-contribution-grid-snake.svg)
+
+![Dino](https://github.com/rahulbiswas12/webProjects/blob/main/materials/dino.gif.gif)
 
