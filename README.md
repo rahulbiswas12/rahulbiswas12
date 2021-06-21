@@ -74,5 +74,5 @@
 
 ![Snake animation](https://github.com/rahulbiswas12/webProjects/blob/main/materials/github-contribution-grid-snake.svg)
 
-![Dino](https://github.com/rahulbiswas12/webProjects/blob/main/materials/dino.gif.gif)
+![Dino](https://github.com/rahulbiswas12/webProjects/blob/main/materials/dino.gif)
 
