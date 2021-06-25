@@ -14,12 +14,15 @@
 
 ### Connect with me:
 
+[<img align="left" alt="" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg"/>](https://www.hackerrank.com/rahulbiswas12)
 
-[<img align="left" alt="" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](https://www.youtube.com/channel/UC9o1HWfOCTk3ZYBpVYmUqFw)
+[<img align="left" alt="" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>](https://leetcode.com/rahulbiswas12/)
+
+[<img align="left" alt="rahulbiswas12 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulbiswas99/)
 
 [<img align="left" alt="rahulbiswas12 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahul_Biswas007&screen_name=Rahul_Biswas007)
 
-[<img align="left" alt="rahulbiswas12 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulbiswas99/)
+[<img align="left" alt="" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](https://www.youtube.com/channel/UC9o1HWfOCTk3ZYBpVYmUqFw)
 
 [<img align="left" alt="rahulbiswas12 | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rahul.biswas12/)
 
@@ -48,7 +51,8 @@
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-
+<br/>
+<br/>
 
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas12&show_icons=true&hide_border=true)
