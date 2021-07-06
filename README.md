@@ -57,6 +57,10 @@
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas12&show_icons=true&hide_border=true)
 <br />
+
+### Earned Badges
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulbiswas12.rahulbiswas12)
 
 
