@@ -1,11 +1,8 @@
 ### Hey! I am Rahul Biswas <img src="https://github.com/rahulbiswas12/webProjects/blob/main/materials/cat.gif" alt="Meaow" width="50" />
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-
-
 - 🔭 I’m currently working on  making myself better everyday! 🏆
-- 🌱 I’m currently learning Web Devlopment 
+- 🌱 I’m currently learning Robot Framework
 - 💬 Ask me about anything, I am happy to help 😇
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
@@ -51,6 +48,10 @@
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://avatars.githubusercontent.com/u/574284?s=200&v=4" /> 
+
+<img align="left" alt="Git" width="26px" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" />
+
 <br/>
 <br/>
 
